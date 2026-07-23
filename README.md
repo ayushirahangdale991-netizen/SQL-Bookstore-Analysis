@@ -80,5 +80,6 @@ This project demonstrates how SQL can convert transactional bookstore data into 
 Screenshot
 Outputs:
 https://github.com/ayushirahangdale991-netizen/SQL-Bookstore-Analysis/blob/main/Frequent%20order%20output(Bookstore).png
+https://github.com/ayushirahangdale991-netizen/SQL-Bookstore-Analysis/blob/main/Top%203%20expensive%20books%20output(Bookstore).png
 
 
