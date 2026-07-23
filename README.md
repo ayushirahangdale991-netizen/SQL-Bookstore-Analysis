@@ -77,4 +77,8 @@ Reporting
 📈 Business Impact
 This project demonstrates how SQL can convert transactional bookstore data into meaningful business insights. The analysis enables stakeholders to identify revenue opportunities, monitor customer purchasing trends, optimize inventory decisions, and improve sales reporting through efficient and structured SQL queries.
 
+Screenshot
+Outputs:
+https://github.com/ayushirahangdale991-netizen/SQL-Bookstore-Analysis/blob/main/Frequent%20order%20output(Bookstore).png
+
 
